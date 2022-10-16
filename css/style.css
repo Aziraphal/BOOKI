@@ -1,0 +1,21 @@
+/*Définitions des polices personnalisées*/
+
+@font-face 
+{font-family: 'ralewaythin_italic', Arial, Helvetica, sans-serif;
+    src: url(Raleway-Italic-VariableFont_wght.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face
+    {font-family: 'ralewaythin', Arial, Helvetica, sans-serif;
+    src: url(Raleway-VariableFont_wght.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+#entete{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
